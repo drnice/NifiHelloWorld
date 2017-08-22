@@ -9,15 +9,20 @@ Follow guidance to download and install the software as illustrated here - https
 
 Once the setup is working like in my screen shot below 
 
-![Alt text](https://github.com/drnice/NifiHelloWorld/blob/master/pics/NifiInitialLaunchPage.tiff?raw=true "Nifi Main Page")
+![image](/images/NifiInitialLaunchPage.png?raw=true "Nifi Main Page")
 
 
 
 
 
-you can log into the Nifi Dashboard you can proceed to the next step.
+If you can log into the Nifi Dashboard you can proceed to the next step.
 
 
-#
+# Import XML Nifi Template
+
+Download or clone this repo....remember the location you downloaded this repo to.
+Now that you have successfully installed Nifi lets import the XML file included in this repository named HelloWorld.xml.  To do this follow the image below and choose import after selecting the HelloWorld.xml to import.  
+
+![Alt text](/images/ImportTemplate.png?raw=true "Nifi Main Page")
 
 
