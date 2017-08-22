@@ -26,3 +26,8 @@ Now that you have successfully installed Nifi lets import the XML file included 
 ![Alt text](/images/ImportTemplate.png?raw=true "Nifi Main Page")
 
 
+# Add Template to Nifi Canvas
+
+Now that we have the Nifi Template uploaded we have to now download add the template to the canvas as shown in the screen shot below 
+
+![image](/images/NifiAddTemplate.png?raw=true "Nifi Main Page")
