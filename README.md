@@ -9,6 +9,10 @@ Follow guidance to download and install the software as illustrated here - https
 
 Once the setup is working like in my screen shot below 
 
+![Alt text](https://github.com/drnice/NifiHelloWorld/blob/master/pics/NifiInitialLaunchPage.tiff?raw=true "Nifi Main Page")
+
+
+
 
 
 you can log into the Nifi Dashboard you can proceed to the next step.
